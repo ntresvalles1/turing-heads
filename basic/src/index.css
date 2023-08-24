@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=ABeeZee&display=swap');
+
+body {
+  margin: 0;
+  font-family: 'ABeeZee', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: 'ABeeZee', sans-serif;
+}
+
+button {
+  font-family: 'ABeeZee', sans-serif;
+}
