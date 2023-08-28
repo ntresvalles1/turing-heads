@@ -2,10 +2,10 @@
 
 ## Set-Up
 ### To setup local React website:
-1. Ensure you are in the right folder
+1. Ensure you are in the right folder (basic folder)! 
 2. Run npm install
 3. Run npm start
-4. Run node server.js (in folder)
+4. Run node server.js (in basic folder)
 
 ### To create a new API Key:
 1. Go to platform.opanai.com
